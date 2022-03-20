@@ -19,9 +19,9 @@ An app to drawing cool 2D design and notes.
 Users should be able to:
 
 - draw anythings he wants
-- set site of lines
-- pick a color
-- erase all the draws
+- set size of lines
+- pick a color to fill that lines
+- erase all the drawed lines
 
 
 ## Screenshot
@@ -31,7 +31,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/mooktar/drawing-app)
+- Solution URL: [here](https://github.com/mooktar/drawing-app)
 
 
 ## Built with
