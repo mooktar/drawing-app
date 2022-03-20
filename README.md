@@ -1,4 +1,4 @@
-# App Name
+# Drawing App
 
 
 
@@ -10,7 +10,6 @@
 - [Built with](#built-with)
 - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
